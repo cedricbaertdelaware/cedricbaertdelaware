@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @cedricbaertdelaware
-- 👀 I’m internhip at Delaware BeLux
-- 🌱 I’m currently learning SAPUI5 and SAP SuccessFactors Work Zone
-
-
+- 👋 Hi, I’m Cédric Baert (@cedricbaertdelaware) and working at delaware consulting as an SAP Integration Consultant.
